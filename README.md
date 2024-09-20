@@ -22,3 +22,9 @@ A simple React application to search and display Pokémon using data from the [P
    ```bash
    git clone https://github.com/YOUR_USERNAME/pokemon-search.git
    cd pokemon-search
+
+2.Install the dependencies:
+<pre><code>npm install </pre></code>
+
+3.Start the development server:
+<pre><code>npm start</code></pre>
