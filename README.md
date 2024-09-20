@@ -27,4 +27,4 @@ A simple React application to search and display Pokémon using data from the [P
 <pre><code>npm install </pre></code>
 
 3.Start the development server:
-<pre><code>npm start</code></pre>
+<pre><code>npm run dev</code></pre>
